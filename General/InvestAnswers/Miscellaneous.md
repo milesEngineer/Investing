@@ -1,0 +1,47 @@
+- [https://www.patreon.com/posts/119397359?utm_campaign=postshare_fan](https://www.patreon.com/posts/119397359?utm_campaign=postshare_fan "smartCard-inline")
+- Life Insurance is a scam. Excessive fees, lack of transparency, death like surrender penalties, shitty investment options, ridiculous till death do us part with long lock-in periods. RL360 scam is well known. If someone is trying to sell you something hard, do not buy it. Policy won’t beat inflation you’ll do far better with something like TSLA.
+- We’re to early to lend your BtC as collateral 1/5/25 as it’s to risky
+- you should hold 80% of your portfolio and trade 20%. You can do half your spot position in leaps like for TSLA. Heavy on leaps during bear markets, and sparingly during bulls like now. Minimize strategies, be patient. Imagine you only have 3 moves per like a sniper with 3 bullets, and you have to make them count.
+- “the secret is to blaze your own trail. Find something that no one else does. Perfect it. Practice it 10,000 times. That’s all you need one move, one trade.” ChatGPT revised “The secret is to blaze your own trail: master one unique skill through relentless practice.”
+- Pair trade TSLA & TSLQ on PTOS, only pair trade on extreme situations with upper bound 3.5 and lower bound -3.5 on 4 H. Watch PTOS sheet for settings & other pairs.
+- IA recommends those who are looking to retire early and trade to control burn. Once you can control your burn - you can make money in so many different ways including pair trading, selling covered calls, perps, etc.
+- Not only pair trade TSLA and MSTR, but also scalp. For example, IA sold MSTR for cash then bought back in 9% lower after it was toppy. MP: Found out MSTX is a 2x leverage on MSTR. ([https://www.coindesk.com/markets/2024/11/21/leveraged-microstrategy-markets-showcase-risk-on-like-never-before-as-bitcoin-aims-for-six-digit-price/](https://www.coindesk.com/markets/2024/11/21/leveraged-microstrategy-markets-showcase-risk-on-like-never-before-as-bitcoin-aims-for-six-digit-price/ "smartCard-inline") ).
+- MSTR outperforms BTC. BTC is like a call option on the future. MSTR is like a call option, on a call option on the future with leverage. Then he adds more leverage to that.
+  — I could do this next bear, with a loan and an option trade. Or some other form of leverage.
+- Fav Indicators other IADSS: Coordination coefficient & 200 D moving average
+- His thesis of thirds ie one third RE, 1/3rd Crypto and 1/3rd Disruption has moved away from RE.
+- Only worth it to do real estate if you can get a multi-unit cheap, location where population is about to explode, no rent control, and no property taxes. Blackstone like companies gets free money from the government to do it, so they can make it work. IA is offloading his real estate income.
+- The old way for perpetual income was real estate, a new paradigm is investing in disruptive assets for capital appreciation, then taking a small slice off for lifestyle.
+- Prefers PEG (growth) over PE to evaluate stock
+- You will never go broke paying taxes.
+- Pay taxes as go or set aside money. James pays taxes every 3 months.
+- Use tax free accounts for active trading
+- Uses SOL/TETHER pair trade for perp long & short
+- Will not sell SOL, but would hedge if…
+  - Firedancer is successful and 1 million TPS
+  - Developers keep building broad depth of DApps that are getting 300 users to 500 million users'
+  - Exchange starts using SOL as a bedrock of tech to run a stock exchange like what Larry Fink is planning to do with the Texas stock exchange
+- The minimum net worth required to be in the top 1% globally is now approximately $7.4 million. (Next day I read an article saying) to be in the top 10% net worth in US you need 1.94 million.
+- to be in the top one percent of wealthiest humans if bitcoin assumes one percent of global wealth and you own nothing else is 32.74 bitcoin, assuming BTC at $226k.
+- 25 fear and greed is when you want to start buying
+- Options: Put in a brokerage account, request level 3 options authority for enough margin to sell puts against assets. Best Options Trading Platforms (would pick top 2): Scwab, Robinhood, Interactive Brokers, ETrade, Webull
+- once you have your retirement portfolio, you can de risk into companies like Microsoft by buying covered calls 4 to 6 times a year. Also look for range riders. 9/1/24 Q&A 25 min
+- great strategy in hindsight would be to have been rides Solana up to March or April highs in 2024, then rotate into JLP or Jupiter for a high interest rate. 22% year return on SOL vs 82% JLP year to date, then rotate back to SOL or faster horses.
+- Must be beating 14% to break even in investment portfolio. see 2 attachments
+  - Chapwood Index: actual inflation per US location
+- You can use Mean reversion on BTC 4 Hr chart to DCA. (see attachment)
+- 1.75 Million SOL/$210M Unlocks 2025 on April 4, not an issue because its about the same amount of volume SOL does in a day
+- Covered calls is still a good stragety with AI because it doesnt rely on market inefficienes, income comes from limiting potential upside (not mispricing), earn premiums from selling options (even if pricing is more efficient).
+- 5x of the 2 year moving avg and that is price target for bull run.
+- SoFI stock is  perfect covered call range rider
+- James does not believe in Wyckoff
+- Trade of a Lifetime:
+  IA views MSTR Synthethic Long as one of the trades of a lifetime, 19,000% returns are few and far between.  It actually has spawned a new idea, called ready strike. The concept is to have powder ready and margin ready for these once-in-a-year or once-in-three-year opportunities and just sit and wait patiently for sometimes multiple periods, but when they come, be ready to strike. Sometimes you have less than an hour to pull the trigger. More details on this concept later.  Just takes one trade and it is utterly life changing.
+  "Ready Strike Concept: Maintaining capital and margin capacity to act swiftly on rare, high-potential opportunities."
+- paper trade until 80% win rate
+- views Tesla as his money market account meaning get rich slowly. Time curve on getting wealthy. When your really poor or rich you can take big risks but if your in the middle like $1mil then you need to play safe
+- 10x goal buying in bear and 3x in bull
+- the confluence trend and reversion across 5 min is key for day trading.
+- Someone got 2.5 M inheritance and IA recom. to put 10% into STRF for income, which is about 5% of their total portfolio. 35% into aggressive LEAPS, the remainder hold high conviction assets.
+- Do not ever buy a leap when it costs half the stock price. Otherwise buy it on margin - put half down, and the other half on margin.
+- If you have $1M to invest, its best to put in an expoential asset like TSLA or BTC, wait 3-4 years before start selling, then sell pieces to cover living costs. Instead of putting it a stock paying 9% dividends (which gets taxed 40%). Fees will eat you alive for yield max etfs and the like. 

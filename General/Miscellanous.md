@@ -1,0 +1,1 @@
+- YieldMax ETF's offer a variety of high paying dividend funds, up to 101% distribution rate. https://www.globenewswire.com/news-release/2025/07/02/3109029/0/en/YieldMax-ETFs-Announces-Distributions-on-SMCY-ULTY-MSTY-WNTR-LFGY-and-Others.html

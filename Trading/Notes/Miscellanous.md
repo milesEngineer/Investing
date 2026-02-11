@@ -1,0 +1,3 @@
+- Glen: Hey just to let you know, I bought a Straddle on TSLA for a total of 34.35. So my target is 51. TSLA has a beta =2.3. OK. Let me put it this way. I need TSLA to go + or - 51 to get my target. I think it will happen.
+- [https://www.patreon.com/posts/127009225?utm_campaign=postshare_fan](https://www.patreon.com/posts/127009225?utm_campaign=postshare_fan "smartCard-inline")Breakdown of bitcoin, price or decomposition
+- Arthur Hayes: The wealthiest crypto bros all own exchanges, brokerage services, or some sort of lending platform.

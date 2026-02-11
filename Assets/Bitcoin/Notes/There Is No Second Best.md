@@ -1,0 +1,24 @@
+- [https://www.youtube.com/watch?v=S3T4nhtHxOA](https://www.youtube.com/watch?v=S3T4nhtHxOA "smartCard-inline")
+- Digital transformation is the best idea, 100% of the returns from the S&P500 come from just 7 companies. The second best idea is worth nothing.
+- Digital capital is the best digital transformation because there is $900 trillion assets in analog world and only 0.1% capital is digital asset. Half of the analog capital is a premium on store of value and the other half is utility.
+- Crypto POW is the best way to create digital capital because its decentralized, physical, sovereign, egalitarian, permissionless, and global. Bitcoin is 97% of the POW market cap.
+- 100% institutional acceptance
+- 624 exahash is secured by the most powerful compute in the world. There is no trick, no gimmick. Just raw digital power.
+- Bitcoin is the best crypto branch because is there are 220 M holders and 420 M crypto users.
+- Other crypto assets will fail due to entropy.
+- Bitcoin is the best investment brand because its cool, useful, global, standard, interesting, egalitarian, and prestigious. Passionate fans winning and losing together.
+- The only crypto in the world recognized as an asset without an issuer by all major regulators because of its immaculate conception. Satoshi created a way, gave it away, and went away.
+- Bitcoin is the best commodity because its global, digital, programmable, inelastic, durable, divisible, and portable.
+- Bitcoin is the only scarcity. No amount of money will buy you more time or bitcoin. Time is money. Bitcoin is really digital time.
+- Even land isnt scarce. Half of Boston is man made land.
+- Bitcoin is the best property because its global, digital, open, permissionless, divisible, immortal, sustainable.
+- 276*3. When you buy a bitcoin you buy one of those blocks.
+- Bitcoin is the best capital asset because its equity, credit, currency, and property are all impaired by physical constraints.
+- B is immortal, immutable, indestructible, and inevitable. People generally agree that more economic power is better than not because we compete in a darwinian world.
+- You invest in anything else than Bitcoin, your losing capital.
+- Bitcoin is the best treasury asset
+- The best investment is something everyone needs, no one can stop, and few understand. You wanna know it, you dont want them to understand it because thats how you take 10 years to 100x.
+- Bitcoin provides the best performance without correlation to risk.
+- Bitcoin is the best alternative asset because its global, non-sovereign, store of value, liquid, low risk (its voliate because its not risky), and longest duration asset.
+- Bitcoin is the place to stand, the leverage is the coming companies. “Give me a place to stand, and I will move the world”
+- Once you have found the best idea, everything else you invest your time or energy in is dilutive.

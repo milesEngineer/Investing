@@ -1,0 +1,14 @@
+# Notes
+- Title: THE BEST NEW BITCOIN TREASURY? SMARTER WEB COMPANY ANALYSIS
+- Source: https://www.youtube.com/watch?v=sfoTmYNUYic
+- Watch: 7/8/25
+- The UK Metaplanet: The only publicly UK listed BTC treasury company and OTC and the fastest premium compression velocity in the cohort.
+- Software company in Bristol
+- IPO'ed in June 1st
+- Founded by Andrew Webley in 2009
+- cash flow from hosting and maintaenance subcriptions
+- MP: What is a reverse-takeover IPO on Aquis at 2.5, raising 1.9M Euros?
+- The fastest reflexive web company using software cash flow
+- The highest compression rate in the public treasury cohort at 
+- Risks: Regulatory - fca tighten crypto-treasury rules, execution - raises lag BTC pull-backs, leadership - no CFO succession plan, bitcoin volatility - draw-downs create reflexive negative PCV until fresh capital arrives
+- Takeaways: Asymmetric upside of small cap chasing triple digit BTC growth, fastest PCV in public cohort - SWC cycles in 35 days vs competitors 70+ days, superior TBY (torque bitcoin yield) clarity - 384% efficiency converts premium to real BTC 4x faster

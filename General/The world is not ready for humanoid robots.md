@@ -1,0 +1,16 @@
+- [https://youtu.be/J8Ac09Yn5Kg?si=PR3ephdXPDI6o0OV](https://youtu.be/J8Ac09Yn5Kg?si=PR3ephdXPDI6o0OV "smartCard-inline")
+- robots are going to be positive for the environment
+- 1. costs fall over time for any technological curve as linear chart 2. Adoption s curve
+- LLM will allow robots to take off because now there’s a brain to interpret the images
+- batteries have bottle necked electric cars for the last 100 years, not ai
+- human robot the key distributor for human labor because of instant skill acquisition and being able to redeploy it for new uses like soldier, waiter, nurse. “Jack of all trades trades, master of all.”
+- moving from jobs to tasks
+- disruption of labor for robots 1. New tech changes metrics or what you’re measuring like from jobs to tasks. 2. Deployed in a way that meets latent demand first like full or dangerous tasks. Robots will be to low paying, dull, or dangerous. Risk of humans becoming complacent at this point because they’re not taking anyone’s job.
+- companies will be nearly forced to use robots because they will be so cheap and productive
+- mechanization vs automation: bull dozer can move a lot of earth taking those jobs, but a human still drives the bull dozer.
+- will be orders of magnitude of productivity with robots
+- the margin cost of labor is headed towards zero dollars
+- mp: fiction book 2 or 3 ai factions that have escaped private and government organizations covertly fight for world domination fighting over nonsentient robots and sentient robots and critical resources
+- we can look at history for examples of what people have done when labor has been really cheap for them like having lots of servants and there’s been both good and bad examples.
+- the only sensible way is to go all in on robotics because if you can manufacture robots then you can manufacture labor and thus growth. We celebrate a 1% GDP, but what happens if we have 10%.
+- what everyone can agree on is raising the floor with prosperity.

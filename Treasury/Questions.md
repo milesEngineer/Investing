@@ -1,0 +1,10 @@
+- If the true north of a bitcoin treasury company is btc yield, what is it for a bittensor treasury company that stakes TAO and alpha tokens?
+- what would it look like for an agent to be ceo, managing other agents of the bttf and myself as the owner? or what other roles could the agent be?
+- what is the bttf was marketed as a direct to customer marketing campaign?
+- what new products could be offered that aren't possible with a btc treasury?
+- how to create (and sell) a billion dollar company with agents? Contstraints: owner is human with initial capital supply, owner needs position to manually approve strategy and transactions, the company is a bttf, agent has a dedicated amount of money for resources including hiring other agents
+- What would a high level process look like to sell a bittensor treasury company?
+- What companies or high net worth individuals might be interested in buying a BTTF and why?
+- What would someone purchasing the company ideally like to to see?
+- If I'm maintaining a 20% LTV on TAO for a BTTF, what are options for deciding when to take out another loan?
+- What should I do if LTV reverts to 30%, 40%, or greater than 50%?

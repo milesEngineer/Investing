@@ -1,0 +1,4 @@
+- IA:[ LEAP Stategies](https://www.youtube.com/live/cCFYZnhRhJA?si=ipFX6d2q53_IIwEf&t=422 "‌"): 1. Covered Calls with IBIT, 2. Poor Mans Covered Call… Always let the options convert to equity. Use that equity to sell more puts and calls.
+- IA encourages not over paying for option leaps. One of his golden rules is never to pay more than 50% of the leap price on time.  Eg say stock is $200 and the leap is $100 and Strike is $150 - you are spending $50 on time value. You are far better off buying the stock on margin than buying a leap.
+- IA only considers selling calls on two standard deviation squeezes on the 4hr timeframe. ⁠
+- James says: 3 options: 1. Roll up and out, 2. Sell before expire, 3. Take possession of the stock (he usually does)

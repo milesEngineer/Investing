@@ -1,0 +1,8 @@
+- [https://www.youtube.com/watch?v=XikIr0kedY8&t=31s](https://www.youtube.com/watch?v=XikIr0kedY8&t=31s "smartCard-inline")
+- 3 Variables of Compounding Interest
+  - Starting capital
+  - Annualized return
+  - Length of runway
+- The most important rule in life is how long it takes something to double or the rule of 72
+- Warren Buffet only 12 decisions that moved the needle for Berkshire. The important thing is that they never sold the stocks.
+- I’m looking for what is hated and unloved.

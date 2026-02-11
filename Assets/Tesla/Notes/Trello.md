@@ -1,0 +1,3 @@
+- Stock could move in unison once robotaxi gets sample data from actual laying customers for financial analysts to understand. Similar to how model 3 ramped up changing the profitability profile of the company. A 9-10x in 7 months.
+- Hans: When you have a company like Tesla nearly in the top 10 by market cap in the world, it takes earnings growth to move. Doesn’t think anticipation will yield growth.
+- why not sell a percentage of stock into gold when M2 has peaked to keep making money?

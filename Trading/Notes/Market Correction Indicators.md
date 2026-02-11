@@ -1,0 +1,3 @@
+- Sam Recession Rule based on unemployment data
+- IA: Sam rule is a reliable recession indicator. Only one false positive in 1959
+- Wyckoff Method https://chartschool.stockcharts.com/table-of-contents/market-analysis/wyckoff-analysis-articles/the-wyckoff-method-a-tutorial

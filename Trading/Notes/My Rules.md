@@ -1,0 +1,6 @@
+- No shorts! Because a bullish assest can bail out timing on perp long, but wrong timing on bullish assest can mean liquidation. And must know what you receive after the trade like SOL for USDT.
+- Hold LT and ST capital gains in separate accounts where possible.
+- No 1 M trades even in a bull! Your not a scalper or day trader! Your going to get burned. As soon as you buy in and the price starts moving against you, you are always just happy to get out at breakeven.
+- Only enter perp long when near 5% relative bottom or pre-halving rally or banana rally. Should be clear and obvious. You still get to maximize upside without the fear of loss and significantly lower potential of liquidation.
+- Fewest moves possible with highest risk to reward ratio. After losing in perps, I need to stick to my strength of picking winning assets and giving them enough time to mature, but must be ready to take profits.
+- Need a rule to avoid hot hands fallacy, to avoid buying Fartcoin at the top with winnings from Trump. Maybe only buy on red days or cannot buy for 1-3 days after cashing out unless pair trading.

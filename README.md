@@ -1,4 +1,10 @@
-# Investing
+## Investing
+
+https://www.youtube.com/watch?v=3ZYf0suPFIE&t=18s
+Use github pages with codex
+use chat gpt o3 pro (or deep think) for pre-research, then deep research with github or pdfs
+- checkout all my research in this repo: https://github.com/piercemic/Investing
+notebooklm.google.com has a huge context window and can generate mindmap
 
 Welcome to **Investing**, my private repository for centralizing all investment-related research, ideas, hypotheses, and notes. This repo serves as a personal hub to organize thoughts, track research, and potentially log trades.
 

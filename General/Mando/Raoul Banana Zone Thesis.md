@@ -1,0 +1,25 @@
+# Notes
+- Title: Raoul is BACK: Has the Banana Zone Thesis Been Right? | Rekt Vision
+- Source: https://www.youtube.com/watch?v=5SmCw5wH4rs&t=2893s
+- When Bitcoin market dominance forms a head and shoulders in late stage bull market (meaning its about to go lower), Bitcoin won't track global M2 but the alt coins will.
+- Raoul: Institutions will choose Microsoft over newer apps because they wont get fired. Same for chosing ETH over SOL.
+- Mando: Early next year 2026 SOL or alt L1's could be the consensus trade with SOL ETF, treasury companies
+- Raoul: Rich people have 10x the value of the house in the house through art. 
+- Crypto punks / Wrapped Ether on a downward trend over time
+- Treasury companies, ETH beta play, and crypto IP play for ETH NFT's
+- Raoul: Art is the scarcest most valuable tokens that will ever that exist, the apex of all tokens. It's unbuyable stuff
+- Mando: more risky in that you need everything to come togethor, liquidity on the way up and down. 
+- Both agree their not a short term trade but a long term hold.
+- Everyone thinks their alt coins needs to go up, and get caught up in the value benefits of their token
+- The moron trade is to buy the cheapest thing in the top ten in terms of absolute price. Based on the anchoring bias of price.
+- If retail comes in, it's all bets off because more retail is getting into options.
+- Raoul: Debasement is 8% and inflation adds 2-4%, so only 2 assets that beat debasement is tech and crypto. NASDAQ divided by Bitcoin is down over 99%. 97% of NASDAQ and 90% of crypto is correlated to global liquidity and debasement. You need to worry about global liquidity and adoption. 90% of all price movement is explained by 1 factor, global liquidity.
+- Raoul: If its crypto, all you need to look at is the strongest performing chart on a weekly basis, and I just own that.
+- Mando: Everyone believes this time might be different.
+- Mando: The volatility of crypto is a feature. There's always a day where you can get massive outsized gains, probably once a month to three months. You wish you had more stables, and I always trade around that. And will take profits at what I see as okay levels. And Im a bit more diversified in crypto.
+- Raoul: The bitcoin early adopters did nothing, and compounded the most amount of wealth in the shortest amount of time. Apart from a few start up founders. Thats the signal. All you need to worry about if liquidity
+- Mando would hold and ETF that holds the top 5 index in crypto. Mando thinks a lot of money will  flow into that and do very well.
+- Raoul: Bull run extends into Q2 2026. Monitoring the weakening of the dollar to provide more clarity. Cycle is going longer than people expect, because rates have been so high for so long.
+- Mando & Raoul both believe that crypto is not more driven by global macro than bitcoin halving cycles.
+- A lower free float token goes up more.
+- Mando thinks ETH can go to $5k or $6k. When it goes to all time, not sure it would be the thing he wants to own.
