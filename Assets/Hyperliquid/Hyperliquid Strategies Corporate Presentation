@@ -2,7 +2,7 @@
 
 - Source: https://d1io3yog0oux5.cloudfront.net/_7adf7866f38670bbe02841cdd2763fc9/hypestrat/db/3687/34741/pdf/Hyperliquid+Strategies+Inc+-+NDR+Corporate+Presentation+%28December+2025%29+FINAL.pdf
 - p.4: "Treasury Strategy: Use cash to increase shareholders’ per-share exposure to HYPE in the most efficient way possible"
-  - What is their actual strategy to increasure pre-share exposure?
+  - What is their actual strategy to increasure pre-share exposure? GPT: share buyback program (https://www.globenewswire.com/news-release/2025/12/08/3201605/0/en/Hyperliquid-Strategies-Inc-Announces-30-million-Stock-Repurchase-Program.html) (or ~10% cash holdings at the time), raise $1B via equity offerings (already done via co acquisition), and staking (~2.5% HYPE APY). I would guess 80-90% of of increasing per-share exposure is buying HYPE tokens.
 - p.4: "Hyperliquid: Dominant perps DEX with millions of free cash flow"
 - p.4: "Hyperliquid Strategies Inc: Currently the largest DAT providing capital efficient access to the highly attractive HYPE
 token"
@@ -21,7 +21,7 @@ institutional investors and those located in the U.S."
 -p.12: "Hyperliquid consistently ranks as one of the highest daily fee generators across all protocols"
 -p.12: Stats #1 in perp dex volume and perp dex open interest, >3T all-time perps volume, >200k active monthly users
 -p.13: HyperEVM smart contract allows apps to be built on the blockchain.
-  - If apps are becoming irrelant due to AI agents, how does this impact hyperEVM and HYPE token?
+  - If apps are becoming irrelant due to AI agents, how does this impact hyperEVM and HYPE token? Value moves from front-end UI to backend execution layer. Agents prefer deterministic, deep, low-friction venues not pretty apps. Volume may increase if bots adopt HL for trading. Only bearish if agents treat all execution venues as interchangeable liqidity pipes, then chains compete purely on cost, latency, and reliability.
 -p.13: HL can be used as back end of platforms like cex's or nasdaq
 -p.13: HIP-3 allows new assets to be perped like stocks
 -p.15: 99% of Hyperliquid revenues are use to buy back HYPE... is the leading protocol for buy-backs by far
