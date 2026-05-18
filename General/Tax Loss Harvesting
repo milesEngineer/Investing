@@ -1,0 +1,24 @@
+ME:
+In this article why does he do this: “I will purchase more, usually twice to three times the original purchase, and wait the 30 days to sell the original position and book the tax loss.” https://www.forbes.com/sites/maddieberg/2019/02/19/the-greatest-investor-youve-never-heard-of-an-optometrist-who-beat-the-odds-to-become-a-billionaire/Give a practical example of TSLA stock if the stock goes up or down.
+GROK:
+Herbert Wertheim (the optometrist-turned-billionaire investor profiled in the Forbes article) uses this tactic as a form of tax-loss harvesting on stocks he still likes and wants to keep owning long-term. 
+
+forbes.com
+
+It lets him realize a capital loss for tax purposes (to offset gains elsewhere or up to $3,000 of ordinary income per year, with excess carried forward) without violating the IRS wash-sale rule and without having to sit out of the stock for 31 days.How the wash-sale rule works (quick background)If you sell shares at a loss and buy substantially identical shares (like more TSLA) within 30 days before or after the sale, the loss is disallowed for taxes—the cost basis simply rolls into the new shares.
+Wertheim’s workaround: When a stock he believes in drops, he buys more first (usually 2–3× the original amount at the lower price), waits 31 days (so the new purchase is outside the 30-day pre-sale window), then sells only the original higher-cost-basis shares. This books the full loss on the old lot while he keeps (and actually increases) his position with the new, lower-basis shares.
+
+It’s consistent with his Buffett-inspired philosophy: “buy and almost never sell,” double down on quality companies when they’re cheaper (“you are actually getting a better deal”), and stay tax-efficient.Practical TSLA exampleAssume you bought 100 shares of TSLA at $350/share (original cost basis = $35,000).
+TSLA later drops to $200/share → unrealized loss of $15,000 on your original position. You still love the company long-term.Step 1: You buy 200 more shares at $200 (2× the original amount, additional investment = $40,000).
+Now you own 300 shares total.Step 2: You wait 31 days (to clear the wash-sale window).Scenario A: TSLA rises during the wait → to $250/share  You sell the original 100 shares (using specific identification to target the high-basis lot).  
+Sale proceeds: 100 × $250 = $25,000.  
+Realized capital loss: $25,000 – $35,000 = –$10,000 (you book this for taxes).  
+You are left with the 200 new shares bought at $200 (new cost basis = $40,000). At $250 they are now worth $50,000 (unrealized gain of $10,000 on the new position).
+
+Net result: You harvested a $10k tax loss, doubled your TSLA position (from 100 → 200 shares), and your average cost basis is now much lower. You never had to be out of the stock.Scenario B: TSLA falls further during the wait → to $150/share  You still sell the original 100 shares at $150.  
+Sale proceeds: 100 × $150 = $15,000.  
+Realized capital loss: $15,000 – $35,000 = –$20,000 (even larger tax benefit).  
+You keep the 200 new shares bought at $200 (cost basis $40,000). At $150 they are now worth $30,000 (unrealized loss of $10,000).
+
+Net result: Bigger tax loss harvested ($20k), still doubled your position, and the new shares have the lower $200 basis going forward.In both cases you end up with more shares at a lower cost basis, a usable tax loss, and continuous exposure to TSLA—exactly what Wertheim does with stocks he believes in. (Note: This assumes you use specific share identification with your broker; consult a tax advisor, as rules can vary by account type and jurisdiction.)
+
