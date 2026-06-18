@@ -1,0 +1,1 @@
+- Compare businesses with retail parking lots using satellite images
