@@ -2,3 +2,4 @@
 - [https://www.patreon.com/posts/127009225?utm_campaign=postshare_fan](https://www.patreon.com/posts/127009225?utm_campaign=postshare_fan "smartCard-inline")Breakdown of bitcoin, price or decomposition
 - Arthur Hayes: The wealthiest crypto bros all own exchanges, brokerage services, or some sort of lending platform.
 - MP: What under-the-radar stocks could deliver parabolic gains like SK Hynix by riding AI capex, government backing, and retail leverage?
+- MP: Every 4 years in Oct or Nov XLM has a parabolic move
